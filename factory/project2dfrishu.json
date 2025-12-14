@@ -1,0 +1,9 @@
+{
+	"name": "project2dfrishu",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "502d2c69-0990-4855-8f68-635c063746cf",
+		"tenantId": "c961f1b2-4b81-4831-aaa1-8c6d8558e941"
+	}
+}
