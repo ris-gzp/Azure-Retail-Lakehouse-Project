@@ -123,8 +123,8 @@ A production-grade **retail analytics lakehouse** built on Microsoft Azure, impl
 |---|---|---|
 | `transactions` | Azure SQL DB | `transaction_id`, `customer_id`, `product_id`, `store_id`, `quantity`, `transaction_date` |
 | `products` | Azure SQL DB | `product_id`, `product_name`, `category`, `price` |
-| `stores` | Azure SQL DB | `store_id`, `store_name`, `location` |
-| `customers` | REST API (JSON) | `customer_id`, `first_name`, `last_name`, `email`, `city`, `registration_date` |
+| `stores1` | Azure SQL DB | `store_id`, `store_name`, `location` |
+| `customers` | REST API (public dataset) | `customer_id`, `first_name`, `last_name`, `email`, `city`, `registration_date` |
 
 ### Product Categories
 `Electronics` &nbsp;•&nbsp; `Fitness` &nbsp;•&nbsp; `Accessories` &nbsp;•&nbsp; `Stationery`
